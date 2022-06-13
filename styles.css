@@ -1,0 +1,74 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 65%;
+    margin: auto;
+    color: #333;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+}
+
+.face {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-top: 20px;
+}
+
+.title {
+    flex: 1;
+    margin-left: 20px;
+}
+
+.name {
+    color:cornflowerblue;
+}
+
+.coral {
+    color: coral;
+}
+
+.qualification {
+    letter-spacing: 1px;
+    color:teal;
+}
+
+.setting {
+    margin-top: 30px;
+}
+
+.extra {
+    color: blue;
+}
+
+.hrline {
+    border: 1px solid blue;
+}
+.table-heading {
+    min-width: 300px;
+    display: block;
+}
+
+.table-props {
+    font-size: 22px;
+    color:navy;
+}
+
+.marginfix {
+    margin-top: 20px;
+}
+.jobheading {
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 15px;
+}
+.jobduration {
+    font-weight: 200;
+    line-height: 20px;
+}
+.jobdescription {
+    margin-top: 15px;
+}
